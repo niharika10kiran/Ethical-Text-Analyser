@@ -8,7 +8,7 @@ A tool that evaluates text quality from an ethical perspective, focusing on:
 ✔️ Are sources provided?
 Instead of generating content, your system audits content.
 
-Problem It Solves (VERY IMPORTANT for your project)
+Problem It Solves 
 Today’s issues:
 People trust text without verification
 AI generates confident but wrong answers
